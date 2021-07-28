@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @the-vergil
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning pandas and numpy
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on ml projects
 - 📫 How to reach me - chetmani1033@gmail.com
 
 <!---
