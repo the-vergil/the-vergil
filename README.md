@@ -5,13 +5,13 @@
 
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
 
-- 🔭 I’m currently working on **WeatherWing**
+- 🔭 I’m currently working on **React Projects**
 
 - 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://the-vergil.github.io/Chet_Portfolio/](https://the-vergil.github.io/Chet_Portfolio/)
 
-- 💬 Ask me about **Machine Learning, DSA**
+- 💬 Ask me about **Machine Learning, DSA and Web Development**
 
 - 📫 How to reach me **chetmani1033@gmail.com**
 
