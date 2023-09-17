@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React Projects**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m a Full Stack **Web Developer**
 
 - 👨‍💻 All of my projects are available at [https://the-vergil.github.io/Chet_Portfolio/](https://the-vergil.github.io/Chet_Portfolio/)
 
