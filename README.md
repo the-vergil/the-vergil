@@ -1,15 +1,15 @@
 [![MasterHead](https://wallpapercave.com/wp/wp9637442.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Chet Mani Singh</h1>
-<h3 align="center">A passionate Software Engineer and Data Science Enthusiast</h3>
+<h3 align="center">A passionate Software Engineer and Full-stack web developer</h3>
 
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
 
-- 🔭 I’m currently working on **React Projects**
+- 🔭 I’m currently working on **NextJS**
 
 - 🌱 I’m a Full Stack **Web Developer**
 
-- 👨‍💻 All of my projects are available at [https://the-vergil.github.io/Chet_Portfolio/](https://the-vergil.github.io/Chet_Portfolio/)
+- 👨‍💻 All of my projects are available at [Chet_Portfolio](https://chet-u2xd.onrender.com/)
 
 - 💬 Ask me about **Machine Learning, DSA and Web Development**
 
