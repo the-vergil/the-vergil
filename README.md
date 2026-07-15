@@ -1,7 +1,7 @@
 [![MasterHead](https://wallpapercave.com/wp/wp9637442.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Chet Mani Singh</h1>
-<h3 align="center">A passionate Leaner of Everything</h3>
+<h3 align="center">A passionate Learner of Everything</h3>
 
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
 
