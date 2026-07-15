@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
 
 - 🔭 I’m currently working on **Generative AI*
-- 
+   
 - 📫 How to reach me **chetmani1033@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
